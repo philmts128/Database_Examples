@@ -1,5 +1,4 @@
 -- Exemplos simples de queries no MySQL
--- O formato é o padrão do MySQL Workbench
 -- Utiliz tabelas usadas no livro do Silberschatz, sexta edição.
 
 -- criar novo banco de dados
